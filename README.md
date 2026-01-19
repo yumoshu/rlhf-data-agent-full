@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RLHF Data Agent
 
 A Python-based agent for generating synthetic preference-ranked datasets for RLHF (Reinforcement Learning from Human Feedback) and DPO (Direct Preference Optimization) training. Specialized in ML/Data coding tasks using libraries like pandas, numpy, sklearn, and PyTorch. Built with Claude Code for REPPO pod publishing—verifiable, scalable, and designed to drive real fees in decentralized AI networks.
@@ -240,4 +239,3 @@ Contributions welcome! Please open an issue or pull request.
 =======
 # rlhf-data-agent
 A Python-based agent for generating synthetic preference-ranked datasets for RLHF or DPO training. Specialized in ML/Data coding tasks using libraries like pandas, numpy, sklearn, and PyTorch. Built with Claude Code for REPPO pod publishing. Verifiable, scalable, and designed to drive real fees in decentralized AI networks.
->>>>>>> 41009aed4d7a961c871ed50a2d09170bd705b5b0
