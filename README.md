@@ -31,7 +31,7 @@ For each prompt, the agent:
 
 ```bash
 # Clone the repository
-git clone https://github.com/PreachingApe/rlhf-data-agent.git
+git clone https://github.com/yumoshu/rlhf-data-agent.git
 cd rlhf-data-agent
 
 # Create virtual environment (recommended)
