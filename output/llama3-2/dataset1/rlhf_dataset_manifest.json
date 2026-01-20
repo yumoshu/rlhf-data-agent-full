@@ -1,0 +1,29 @@
+{
+  "name": "rlhf-coding-ml-data",
+  "version": "1.0.0",
+  "description": "RLHF/DPO dataset for ML/Data coding assistance",
+  "total_records": 100,
+  "domains": [
+    "pandas",
+    "sklearn",
+    "numpy",
+    "pytorch"
+  ],
+  "task_types": [
+    "debug",
+    "refactor",
+    "optimize",
+    "generate",
+    "explain"
+  ],
+  "complexity_distribution": {
+    "intermediate": 50,
+    "advanced": 25,
+    "beginner": 25
+  },
+  "avg_chosen_score": 0.7029,
+  "avg_rejected_score": 0.6363,
+  "generated_at": "2026-01-17T23:16:33.197470",
+  "generator": "rlhf_data_agent",
+  "preference_gap": 0.0666
+}
