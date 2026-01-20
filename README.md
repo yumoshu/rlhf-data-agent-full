@@ -55,6 +55,8 @@ OLLAMA_BASE_URL=http://localhost:11434
 
 ### Using Ollama (Free Local Models)
 
+WARNING: Does not work with streamlit, only locally hosted.
+
 1. Install Ollama: https://ollama.ai
 2. Start the server: `ollama serve`
 3. Pull a model: `ollama pull llama3.2` or `ollama pull codellama`
